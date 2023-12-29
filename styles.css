@@ -9,8 +9,7 @@ body{
     height: 100%;
 }
 .main{
-    width: 22vw;
-    height: 65vh;   
+    width: 22vw;   
     background: #ffff;
     border-radius: 20px;
     box-shadow: 10px 10px;
